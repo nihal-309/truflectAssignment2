@@ -66,16 +66,6 @@ Built a dark/light theme using CSS variables. Switching themes is instant—no p
 
 ---
 
-## What I Learned
-
-1. Debouncing search queries is essential—saves both API calls and bandwidth
-2. CSS Variables are better than switching themes with class names—no re-renders needed
-3. Intersection Observer beats scroll listeners every time—way more efficient
-4. Full state reset on errors prevents sneaky bugs and edge cases
-5. Component composition keeps things maintainable even as features grow
-
----
-
 ## Running Locally
 
 ```bash
